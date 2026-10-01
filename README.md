@@ -1,49 +1,72 @@
-<h1 align="center">Afaaq Yaseen 👋</h1>
-<h3 align="center">Offensive Security · Penetration Testing · Red Team</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=200&section=header&text=Afaaq%20Yaseen&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20%7C%20Penetration%20Testing%20%7C%20Red%20Team&descAlignY=58&descSize=18" width="100%"/>
 
 <p align="center">
-  <a href="www.linkedin.com/in/afaaq-yaseen-23b40a342"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="[[https://yourblog.com]](https://medium.com/@afaaqyasin786)(https://medium.com/@afaaqyasin786)"><img src="https://img.shields.io/badge/Blog-111?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami;Penetration+Tester;Learning+in+public;Breaking+things+%28legally%29" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/afaaq-yaseen-23b40a342"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41"></a>
+  <a href="https://medium.com/@afaaqyasin786"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=medium&logoColor=00ff41"></a>
+  <a href="mailto:bugbountyhunter121@email.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41"></a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 💀 root@portfolio:~# whoami
 
-- 🔴 Offensive security professional focused on **web app / network / AD / cloud** testing
-- 🎓 Certs: ** CEH / CHFI / CPTS (in progress) 
-- 🏆 Platforms: **HackTheBox, TryHackMe, PortSwigger Academy** 
-- 🐛 Bug bounty: **HackerOne / Bugcrowd / Intigriti** 
-- 📍 Based in Rawalpindi, Pakistan
+```bash
+name       : Afaaq Yaseen
+role       : Offensive Security Professional
+location   : Rawalpindi, Pakistan
+focus      : Web App | Network | Active Directory | Cloud
+certs      : CEH, CHFI, CPTS (in progress)
+platforms  : HackTheBox, TryHackMe, PortSwigger Academy
+status     : [ONLINE] open to engagements
+```
 
-## 🛠️ Toolkit
+## ⚔️ root@portfolio:~# ls tools/
 
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41">
+  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff41">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41">
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41">
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41">
+</p>
 
-**Also:** Nmap · Metasploit · BloodHound · Impacket · ffuf · sqlmap · Nuclei · Ghidra · Wireshark
+```bash
+$ ls /opt/arsenal
+nmap  metasploit  bloodhound  impacket  ffuf  sqlmap  nuclei  ghidra  wireshark
+```
 
-## 🎯 Focus Areas
+## 🎯 root@portfolio:~# cat focus.log
 
-- Web application security (OWASP Top 10, API testing)
-- Active Directory attacks and privilege escalation
-- Recon and attack surface mapping
-- Report writing and remediation guidance
+```bash
+[+] Web application security (OWASP Top 10, API testing)
+[+] Active Directory attacks and privilege escalation
+[+] Recon and attack surface mapping
+[+] Report writing and remediation guidance
+[>] In progress: CPTS certification
+```
 
-## 📌 Featured Work
+## 📂 root@portfolio:~# ls ~/work
 
-| Work | Description |
+```bash
+[>] security-labs/            HTB, THM, PortSwigger writeups   (in progress)
+[>] recon-scripts/            recon automation tooling         (planned)
+[>] pentest-report-template/  sample report                    (planned)
+```
 
+📝 Writeups and articles: [medium.com/@afaaqyasin786](https://medium.com/@afaaqyasin786)
 
-*Repos coming soon.*
+## 📡 root@portfolio:~# ./contact.sh
 
-## 📫 Contact
+```bash
+$ echo "bugbountyhunter121@email.com"
+> Open to pentest engagements, red team roles, and collaboration
+```
 
-Open to pentest engagements, red team roles, and collaboration: **bugbountyhunter121@email.com**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=100&section=footer" width="100%"/>
 
 > ⚠️ All content is for education and authorized testing only.
