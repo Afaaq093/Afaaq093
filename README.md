@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Your Name 👋</h1>
+<h1 align="center">Afaaq Yaseen 👋</h1>
 <h3 align="center">Offensive Security · Penetration Testing · Red Team</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-111?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="www.linkedin.com/in/afaaq-yaseen-23b40a342"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[https://yourblog.com](https://medium.com/@afaaqyasin786)"><img src="https://img.shields.io/badge/Blog-111?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -12,9 +12,9 @@
 ## 🧑‍💻 About Me
 
 - 🔴 Offensive security professional focused on **web app / network / AD / cloud** testing
-- 🎓 Certs: **OSCP / CEH / PNPT** (list yours, or "working toward ...")
-- 🏆 Platforms: **HackTheBox, TryHackMe, PortSwigger Academy** (add profile links)
-- 🐛 Bug bounty: **HackerOne / Bugcrowd / Intigriti** (add if applicable)
+- 🎓 Certs: ** CEH / CHFI / CPTS (in progress) 
+- 🏆 Platforms: **HackTheBox, TryHackMe, PortSwigger Academy** 
+- 🐛 Bug bounty: **HackerOne / Bugcrowd / Intigriti** 
 - 📍 Based in Rawalpindi, Pakistan
 
 ## 🛠️ Toolkit
@@ -38,15 +38,12 @@
 ## 📌 Featured Work
 
 | Work | Description |
-|---|---|
-| [HTB Writeups](https://github.com/yourusername/htb-writeups) | Retired machine walkthroughs with methodology |
-| [Recon Automation](https://github.com/yourusername/recon-scripts) | Scripts that chain subdomain, port, and content discovery |
-| [Pentest Report Template](https://github.com/yourusername/pentest-report-template) | Clean, reusable reporting format |
+
 
 *Repos coming soon.*
 
 ## 📫 Contact
 
-Open to pentest engagements, red team roles, and collaboration: **you@email.com**
+Open to pentest engagements, red team roles, and collaboration: **bugbountyhunter121@email.com**
 
 > ⚠️ All content is for education and authorized testing only.
