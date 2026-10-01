@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/afaaq-yaseen-23b40a342"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="[https://yourblog.com](https://medium.com/@afaaqyasin786)"><img src="https://img.shields.io/badge/Blog-111?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="[[https://yourblog.com]](https://medium.com/@afaaqyasin786)(https://medium.com/@afaaqyasin786)"><img src="https://img.shields.io/badge/Blog-111?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
