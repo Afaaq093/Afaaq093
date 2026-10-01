@@ -1,13 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=140&section=header&text=AFAAQ%20YASEEN&fontSize=48&fontColor=00ff41&fontAlignY=45&desc=Penetration%20Tester%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Red%20Team&descAlignY=72&descSize=16&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=140&section=header&text=AFAAQ%20YASEEN&fontSize=48&fontColor=38bdf8&fontAlignY=45&desc=Penetration%20Tester%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Red%20Team&descAlignY=72&descSize=16&descColor=8b949e" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=Think+like+an+attacker.+Report+like+a+professional.;Web+Application+VAPT+%7C+Red+Teaming;Reconnaissance+%E2%86%92+Exploitation+%E2%86%92+Remediation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Think+like+an+attacker.+Report+like+a+professional.;Web+Application+VAPT+%7C+Red+Teaming;Reconnaissance+%E2%86%92+Exploitation+%E2%86%92+Remediation" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/afaaq-yaseen-23b40a342"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41"></a>
-  <a href="https://hackerone.com/YOUR-H1-USERNAME"><img src="https://img.shields.io/badge/HackerOne-0d1117?style=for-the-badge&logo=hackerone&logoColor=00ff41"></a>
-  <a href="mailto:afaaqyasin786@gmail.com"><img src="https://img.shields.io/badge/Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41"></a>
+  <a href="https://www.linkedin.com/in/afaaq-yaseen-23b40a342"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdf8"></a>
+  <a href="https://medium.com/@afaaqyaseen"><img src="https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=38bdf8"></a>
+  <a href="https://hackerone.com/YOUR-H1-USERNAME"><img src="https://img.shields.io/badge/HackerOne-0d1117?style=for-the-badge&logo=hackerone&logoColor=38bdf8"></a>
+  <a href="mailto:bugbountyhunter121@gmail.com"><img src="https://img.shields.io/badge/Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=38bdf8"></a>
 </p>
 
 ---
@@ -30,10 +31,6 @@ I approach every target by asking one question: **what can an attacker do that t
 ---
 
 ### `[01]` Methodology
-
-```console
-afaaq@sec:~$ ./engagement --phases
-```
 
 | Phase | What I do |
 |---|---|
@@ -76,11 +73,11 @@ ethics      Responsible disclosure, in-scope testing only
 ### `[04]` Tooling
 
 <p>
-  <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=00ff41">
-  <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=00ff41">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41">
-  <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=00ff41">
-  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00ff41">
+  <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=38bdf8">
+  <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=38bdf8">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=38bdf8">
+  <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=38bdf8">
+  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=38bdf8">
 </p>
 
 ```console
@@ -123,12 +120,14 @@ afaaq@sec:~$ ls ~/writeups
 [>] Lab and machine writeups with methodology and remediation    uploading soon
 ```
 
+Articles: [medium.com/@afaaqyaseen](https://medium.com/@afaaqyaseen)
+
 ---
 
 ### `[08]` Contact
 
 ```console
-afaaq@sec:~$ ./contact --email afaaqyasin786@gmail.com
+afaaq@sec:~$ ./contact --email bugbountyhunter121@gmail.com
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=60&section=footer" width="100%"/>
