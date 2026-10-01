@@ -1,74 +1,72 @@
-<h1 align="center">Afaaq Yaseen</h1>
-<p align="center"><b>Penetration Tester · Bug Bounty Hunter</b></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=200&section=header&text=Afaaq%20Yaseen&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20%7C%20Penetration%20Testing%20%7C%20Red%20Team&descAlignY=58&descSize=18" width="100%"/>
+
 <p align="center">
-I find the flaws in web applications that attackers would use, prove them with safe proofs of concept, and write reports developers can act on.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami;Penetration+Tester;Learning+in+public;Breaking+things+%28legally%29" />
 </p>
 
 <p align="center">
-  <a href="https://YOUR-USERNAME.github.io">Website</a> ·
-  <a href="https://www.linkedin.com/in/afaaq-yaseen-23b40a342">LinkedIn</a> ·
-  <a href="https://medium.com/@afaaqyaseen">Medium</a> ·
-  <a href="mailto:bugbountyhunter121@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/afaaq-yaseen-23b40a342"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41"></a>
+  <a href="https://medium.com/@afaaqyasin786"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=medium&logoColor=00ff41"></a>
+  <a href="mailto:bugbountyhunter121@email.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41"></a>
 </p>
 
 ---
 
-## Snapshot
+## 💀 root@portfolio:~# whoami
 
-| | |
-|---|---|
-| **Role** | Penetration Tester Intern, Tech Biz Security |
-| **Focus** | Web application VAPT, red teaming, bug bounty |
-| **Education** | BSc Computer Science (2026) |
-| **Certifications** | CEH · CHFI (training completed) · CPTS (in progress) |
-| **Based in** | Rawalpindi, Pakistan |
-| **Status** | Open to VAPT and red team roles |
+```bash
+name       : Afaaq Yaseen
+role       : Offensive Security Professional
+location   : Rawalpindi, Pakistan
+focus      : Web App | Network | Active Directory | Cloud
+certs      : CEH, CHFI, CPTS (in progress)
+platforms  : HackTheBox, TryHackMe, PortSwigger Academy
+status     : [ONLINE] open to engagements
+```
 
-## About
+## ⚔️ root@portfolio:~# ls tools/
 
-Recent Computer Science graduate specializing in web application vulnerability assessment and red teaming. I train on PortSwigger Web Security Academy, Hack The Box and TryHackMe, play CTFs, and build my own security tools.
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00ff41">
+  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00ff41">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41">
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41">
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41">
+</p>
 
-## What I Test
+```bash
+$ ls /opt/arsenal
+nmap  metasploit  bloodhound  impacket  ffuf  sqlmap  nuclei  ghidra  wireshark
+```
 
-| Vulnerability class | What I look for |
-|---|---|
-| **XSS** | Unsanitized input reflected or stored in the page, with payloads matched to the injection context |
-| **SQL injection** | Injectable parameters, authentication bypass, data extraction paths |
-| **Access control / IDOR** | Predictable object IDs, missing authorization checks between users and roles |
-| **CSRF** | State-changing requests without anti-forgery protection |
-| **SSRF / XXE** | Server-side requests an attacker can steer, XML parsers accepting external entities |
-| **Information disclosure** | Verbose errors, exposed files, leaked tokens and metadata |
-| **Clickjacking** | Missing frame protections on sensitive actions |
+## 🎯 root@portfolio:~# cat focus.log
 
-## How I Work
+```bash
+[+] Web application security (OWASP Top 10, API testing)
+[+] Active Directory attacks and privilege escalation
+[+] Recon and attack surface mapping
+[+] Report writing and remediation guidance
+[>] In progress: CPTS certification
+```
 
-1. **Recon:** map subdomains, endpoints, parameters, technologies and exposed assets
-2. **Enumeration:** understand authentication, roles, object references and trust boundaries
-3. **Exploitation:** validate each weakness with a minimal, safe proof of concept
-4. **Impact analysis:** show what an attacker actually gains, in business terms
-5. **Reporting:** reproducible steps, severity rationale and a concrete fix
+## 📂 root@portfolio:~# ls ~/work
 
-## Bug Bounty
+```bash
+[>] security-labs/            HTB, THM, PortSwigger writeups   (in progress)
+[>] recon-scripts/            recon automation tooling         (planned)
+[>] pentest-report-template/  sample report                    (planned)
+```
 
-Active on **HackerOne** and **OpenBugBounty**. I report XSS, IDOR and information disclosure issues in live programs through responsible disclosure, in scope only. Every report includes a proof of concept, impact analysis and remediation advice.
+📝 Writeups and articles: [medium.com/@afaaqyasin786](https://medium.com/@afaaqyasin786)
 
-## Projects
+## 📡 root@portfolio:~# ./contact.sh
 
-| Project | Description | Status |
-|---|---|---|
-| aws-vuln-scanner | Identifies security misconfigurations across AWS environments | Uploading soon |
-| port-scanner | Detects open ports and running services | Uploading soon |
-| ai-vuln-scanner | AI-assisted scanner to automate parts of the assessment workflow | In development |
+```bash
+$ echo "bugbountyhunter121@email.com"
+> Open to pentest engagements, red team roles, and collaboration
+```
 
-## Writeups
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:000000&height=100&section=footer" width="100%"/>
 
-Lab and machine writeups with methodology and remediation: **uploading soon.**
-Articles will be published on [Medium](https://medium.com/@afaaqyaseen).
-
-## Contact
-
-Open to penetration testing, VAPT and red team opportunities: **bugbountyhunter121@gmail.com**
-
----
-
-<sub>All testing is performed on authorized targets only. No client data or confidential findings are published here.</sub>
+> ⚠️ All content is for education and authorized testing only.
